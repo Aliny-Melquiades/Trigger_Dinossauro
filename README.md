@@ -1,4 +1,4 @@
-# Trigger Dinossauros
+# Trigger-Dinossauros
 
 ### Trigger para exibir se os dados inseridos correspondem a era correta dos Dinossauros, de acordo com a tabela abaixo:
 
