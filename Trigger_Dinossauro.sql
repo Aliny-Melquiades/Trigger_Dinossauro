@@ -81,4 +81,4 @@ FOR EACH ROW EXECUTE PROCEDURE verificar_era();
 
 
 insert into dinossauros(nome, toneladas, ano_descoberta, fk_grupo, fk_era, fk_regiao, fk_descobridor, inicio, fim) values ('Kentrossauro', 2, 1909, 3, 2, 3, 3, 200, 145) -- Validação Permitida
-insert into dinossauros(nome, toneladas, ano_descoberta, fk_grupo, fk_era, fk_regiao, fk_descobridor, inicio, fim) values	('Saichania', 4, 1977, 1, 3, 1, 1, 145, 66) --Validação Nâo Permitida
+insert into dinossauros(nome, toneladas, ano_descoberta, fk_grupo, fk_era, fk_regiao, fk_descobridor, inicio, fim) values ('Saichania', 4, 1977, 1, 3, 1, 1, 145, 66) --Validação Nâo Permitida
